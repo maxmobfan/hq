@@ -1,0 +1,84 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": true,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "admob",
+      "admob_banner_unit_id": "ca-app-pub-6947849202823364/2013450826",
+      "admob_interstitial_unit_id": "ca-app-pub-6947849202823364/9916045478",
+      "admob_native_unit_id": "ca-app-pub-6947849202823364/7894747712",
+      "admob_app_open_unit_id": "ca-app-pub-6947849202823364/1226982761",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+       "fan_banner_unit_id": "",
+      "fan_interstitial_unit_id": "",
+      "fan_native_unit_id": "",
+       "startapp_app_id": "0",
+      "unity_game_id": "4725055",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 0,
+      "native_ad_index": 1,
+      "native_ad_interval": 3,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+    "posts": [
+      {
+        "id": 1,
+        "category": "OTA Hint",
+        "title": "How To Update Miui 14?",
+        "image": "file:///android_asset/b99.jpg",
+        "content": "To update MIUI via OTA (Over-The-Air), you can follow these steps: Connect to a Stable Internet Connection: Make sure your device is connected to a stable Wi-Fi network or has a strong cellular data connection. This will ensure a smooth and uninterrupted update process. Check for Updates: Go to the Settingsapp on your Xiaomi device and scroll down to find About phone or System updates. Tap on it to access the system update settings. Check for Updates: Within the System updates section, tap on the Check for updates or Check for system updates button. Your device will then connect to the MIUI server and check for available updates. Download and Install Update: If a new MIUI update is available, you will be prompted to download it. Make sure your device has sufficient battery power or is connected to a power source, as updates can take some time to complete. Tap on the Downloadbutton and wait for the update package to be downloaded.Install the Update: Once the update package is downloaded, you will be prompted to install it. Tap on the Install button to begin the installation process. Your device will reboot and install the update. Wait for the Installation to Complete: During the installation process, your device will display a progress bar indicating the update's installation progress. Do not power off or interrupt the device during this time. Reboot and Enjoy: Once the installation is complete, your device will automatically reboot. After the reboot, you can enjoy the updated MIUI version with the latest features and improvements.its important to note that the specific steps may vary slightly depending on the Xiaomi device model and the version of MIUI you're running. Its recommended to backup your data before performing any system updates to ensure the safety of your personal information and files."
+      },
+      {
+        "id": 1,
+        "category": "OTA Hint",
+        "title": "How To Update Miui 14?",
+        "image": "file:///android_asset/b99.jpg",
+        "content": ""
+      }
+       ]
+  }
