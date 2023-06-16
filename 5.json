@@ -23,12 +23,12 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "fan",
-      "backup_ad": "admob",
-      "admob_banner_unit_id": "ca-app-pub-6947849202823364/2013450826",
-      "admob_interstitial_unit_id": "ca-app-pub-6947849202823364/9916045478",
-      "admob_native_unit_id": "ca-app-pub-6947849202823364/7894747712",
-      "admob_app_open_unit_id": "ca-app-pub-6947849202823364/1226982761",
+      "main_ad": "admob",
+      "backup_ad": "fan",
+      "admob_banner_unit_id": "ca-app-pub-6947849202823364/1188305344",
+      "admob_interstitial_unit_id": "ca-app-pub-6947849202823364/4756833507",
+      "admob_native_unit_id": "ca-app-pub-6947849202823364/3443751830",
+      "admob_app_open_unit_id": "ca-app-pub-6947849202823364/8875223674",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
