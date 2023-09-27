@@ -1,0 +1,119 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": true,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "admob",
+      "admob_banner_unit_id": "ca-app-pub-8181258110440512/5521321428",
+      "admob_interstitial_unit_id": "ca-app-pub-8181258110440512/7185756882",
+      "admob_native_unit_id": "ca-app-pub-8181258110440512/3689365006",
+      "admob_app_open_unit_id": "ca-app-pub-8181258110440512/7430704436",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "637679475048902_637679535048896",
+      "fan_interstitial_unit_id": "637679475048902_637679531715563",
+      "fan_native_unit_id": "637679475048902_637679525048897",
+      "startapp_app_id": "0",
+      "unity_game_id": "4725055",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 0,
+      "native_ad_index": 1,
+      "native_ad_interval": 3,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "RunwayML",
+      "title": "What is Runway ML?",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*i7VugW3SDzd0maMc5q4PaA.png",
+      "content": "RunwayML is an applied AI research company that aims to make content creation accessible to all by taking recent advancements in computer graphics and machine learning.\n\nRunwayML used to be a video editing tool but now it can generate video like AI image tools. Imagine crafting a video without filming any footage or the worries of coordinating with a film crew. With RunwayML, you can use its special AI to generate videos from mere text or images."
+    },
+    {
+      "id": 2,
+      "category": "RunwayML",
+      "title": "Key Features of RunwayML",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*svTrb7U2yyBYfb4YCvAo_Q.jpeg",
+      "content": "1. Editing Videos\n\nVarious edits at your fingertips: remove backgrounds or change playback speed.\n2. Generating Videos\n\nCraft from your imagination, leaving behind the confines of traditional filming.\nLet’s look at video generation in this article."
+    },
+    {
+      "id": 3,
+      "category": "RunwayML",
+      "title": "A Closer Look at Video Generation",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*svTrb7U2yyBYfb4YCvAo_Q.jpeg",
+      "content": "RunwayML comes with three standout video generation tools:\n\nGen1: Video to Video Feature\nFirstly, RunwayML allows the transformation of any video into a different one entirely. The process is straightforward; you select a preset and the style of the video that you prefer, and the application subsequently outputs your video in the specified styles.\n\n\nAdditionally, you have the option to add reference image or describe the style of the images you want, though this might require some iteration to achieve the desired result."
+    },
+    {
+      "id": 4,
+      "category": "RunwayML",
+      "title": "Gen2: Text to Video Feature",
+      "image": "https://aitoolmall.com/wp-content/uploads/2023/07/How-to-Use-RunwayML-Gen-2.png",
+      "content": "The second key capability is the ‘Text to Video’ feature. With this tool, you simply describe your desired video in text form, and the application generates a result accordingly. This gives you the power to specify exactly how you’d like your video to be edited or modified."
+    },
+    {
+      "id": 5,
+      "category": "RunwayML",
+      "title": "Gen2 : Image to Video Feature (New and Best one!)",
+      "image": "https://aitoolmall.com/wp-content/uploads/2023/07/How-to-Use-RunwayML-Gen-2.png",
+      "content": "The third notable feature is the ‘Image to Video’ tool. This tool allows you to use a specific image as a starting point of a video instead of as references.\n\nNote that if you add text, it is recognized as Text to Video feature. It’s worth noting that this might lessen some consistency or not strictly adhere to the starting point images’ aesthetics.\n\nYou can check out some of the impressive result from indie filmmaker using Gen2 model."
+    },
+    {
+      "id": 6,
+      "category": "RunwayML",
+      "title": "Use of RunwayML",
+      "image": "https://sprinkleofai.com/wp-content/uploads/2023/08/Tutorial-How-to-Easily-Animate-Midjourney-Images-with-the-RunwayML-Gen-2-Generative-AI-Video-Tool-5-1024x589.jpg",
+      "content": "Currently, using images as a starting point — the ‘Image to Video’ tool — tends to yield the most optimal results. As of now, is the most effective approach in utilizing the capabilities of RunwayML."
+    },
+    {
+      "id": 7,
+      "category": "RunwayML",
+      "title": "Harnessing the Power of AI in Filmmaking: Tips and Tricks",
+      "image": "https://sprinkleofai.com/wp-content/uploads/2023/08/Tutorial-How-to-Easily-Animate-Midjourney-Images-with-the-RunwayML-Gen-2-Generative-AI-Video-Tool-5-1024x589.jpg",
+      "content": "To get the most out of your AI filmmaking experience, we invite you to follow us for upcoming articles. These will dive deeper into how AI can generate images and create movies. Our goal is to empower you to a level where you’re capable of creating your own movies. Stay tuned!"
+    }
+  ]
+}
