@@ -1,0 +1,197 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": true,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "admob",
+      "admob_banner_unit_id": "ca-app-pub-8181258110440512/5521321428",
+      "admob_interstitial_unit_id": "ca-app-pub-8181258110440512/7185756882",
+      "admob_native_unit_id": "ca-app-pub-8181258110440512/3689365006",
+      "admob_app_open_unit_id": "ca-app-pub-8181258110440512/7430704436",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "637679475048902_637679535048896",
+      "fan_interstitial_unit_id": "637679475048902_637679531715563",
+      "fan_native_unit_id": "637679475048902_637679525048897",
+      "startapp_app_id": "0",
+      "unity_game_id": "4725055",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 0,
+      "native_ad_index": 1,
+      "native_ad_interval": 3,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Genially",
+      "title": "How to start creating with Genially",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/0*ZM7Ho56s9083ZRUC",
+      "content": "Have you signed up to Genially? You probably cant wait to get started. We understand: you’re just a few clicks away from creating the amazing content you didn’t even know you could, and its much easier than you think! You can start creating your content in a few different ways, depending on what you need. In this article, we’ll tell you three ways to start creating great   "
+    },
+    {
+      "id": 2,
+      "category": "Genially ",
+      "title": "Start creating using a template ",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/0*ZM7Ho56s9083ZRUC",
+      "content": "In Genially there are thousands of templates for creating all kinds of content: presentations, infographics, gamified content, training materials, and more. The templates are organized into categories to make it easier for you to choose. To access the Editor, the first thing you need to do is choose a template. Click on Create genially and browse the different types of templates, or use the search bar to quickly find what you need. If you click on the thumbnail of a template, you’ll see its content, structure, and the pages it contains. That way you can see at a glance if it matches what you want to create. To learn more about using template "
+    },
+    {
+      "id": 3,
+      "category": " Genially",
+      "title": "Start creating from a blank page",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf30084ec4eb7a70f0c7300/1608603902270-TFYKXFGFBRHPXWR3EMAV/Screen+Shot+2020-12-21+at+9.24.33+PM.png",
+      "content": "To start from scratch, click on Create genially and choose the Blank creation option. You can start creating by clicking on Use this template, or choose the dimensions you want for your genially. To do this, modify the height and width fields and click onCreate "
+    },
+    {
+      "id": 4,
+      "category": "Genially ",
+      "title": " Start creating using a Powerpoint presentation",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf30084ec4eb7a70f0c7300/1608603902270-TFYKXFGFBRHPXWR3EMAV/Screen+Shot+2020-12-21+at+9.24.33+PM.png",
+      "content": "You can also create a genially using an existing PowerPoint, which is a great option for breathing new life into your content. You can import a .pptx file as long as it does not exceed 100 MB. We explain the steps in this article. Importing the content youve created with PowerPoint into Genially will allow you to add stunning interactivity and animation effects to engage your audience from beginning to end. You can also edit all the elements, such as texts, images, tables, etc. With Genially’s Editor, its really easy to turn any PowerPoint into amazing content."
+    },
+    {
+      "id": 5,
+      "category": "Genially ",
+      "title": " Interactive presentation",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf30084ec4eb7a70f0c7300/1608603902270-TFYKXFGFBRHPXWR3EMAV/Screen+Shot+2020-12-21+at+9.24.33+PM.png",
+      "content": "Utilize the incredible presentation templates or insert content directly into a brand new genially. You can add interactive spots where videos or text can be added. Access this content by clicking on it or hover over it. Animate text or add awesome transitions. Genially changes the whole “presentation game "
+    },
+    {
+      "id": 6,
+      "category": "Genially ",
+      "title": "Newsletter ",
+      "image": "https://ps.w.org/genially-embed/assets/banner-772x250.png",
+      "content": " Search for an already awesome template or create your own. Your genially can be downloaded into a PDF or shareable link using their breathtaking templates. Plug your information and boom! You have a professional looking newsletter. Check out this newsletter example from Manny."
+    },
+    {
+      "id": 7,
+      "category": "Genially ",
+      "title": " Digital escape rooms",
+      "image": "https://ps.w.org/genially-embed/assets/banner-772x250.png",
+      "content": " f you are new to escape rooms, Genially has your back! Search for pre-made escape rooms, plug in your information and you are good to go. Learn how to build one by looking into how Genially layers images, pages and interactive elements. If you are already familiar with escape rooms or breakouts, you will absolutely LOVE the features Genially has for you. Want to try one for yourself? Check out VirtualEscapeRooms.org a site created by Karly with tons of escape rooms for your students all made with Genially!"
+    },
+    {
+      "id": 8,
+      "category": "Genially ",
+      "title": "Infographics ",
+      "image": "https://ps.w.org/genially-embed/assets/banner-772x250.png",
+      "content": "Did we already mention templates? Genially has breathtaking templates that will inspire you and your students to organize amazing content. You have access to genially elements from their free templates or you can upload your own. "
+    },
+    {
+      "id": 9,
+      "category": "Genially ",
+      "title": "Virtual field trips ",
+      "image": "https://ps.w.org/genially-embed/assets/banner-772x250.png",
+      "content": "It’s so much fun to take students on a virtual field trip but what if we could make the process of “going” even MORE engaging and fun? With a genially you can add interactive content to maps or images that take your students on an adventure without even leaving the classroom. Remember you add anything with an embed code into your genially. Try embedding a 360 picture from Air Pano or link to these virtual field trips with an interactive button on a map. "
+    },
+    {
+      "id": 10,
+      "category": "Genially ",
+      "title": "Gamification ",
+      "image": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3ac4b23c-a4fb-48d2-aa4a-b38b0c97c2a0.png",
+      "content": "I (Manny) was new at gamification, so Genially really helped me out by giving me some examples so I could have my students recreate games based on their interest. Pick a template and see the thought behind the game. It is really helpful to see one already done so you or your students can add your own twist.  "
+    },
+    {
+      "id": 11,
+      "category": "Genially ",
+      "title": "Training Center ",
+      "image": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3ac4b23c-a4fb-48d2-aa4a-b38b0c97c2a0.png",
+      "content": " Create a one stop training center for your teachers or students. Add videos, resources and links from different geniallys all inside a master genially. Immerse your teachers or students in a fun and interactive learning experience. Check out this training center example from Manny."
+    },
+    {
+      "id": 12,
+      "category": "Genially ",
+      "title": "Videos",
+      "image": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3ac4b23c-a4fb-48d2-aa4a-b38b0c97c2a0.png",
+      "content": " Take advantage of Genially's transitions and animations. Create a genially as a regular presentation and then record your screen, add music and, you've got yourself one awesome video just like this one! Genially's templates already come with preset music and animations, just add your content and boom! You're done."
+    },
+    {
+      "id": 13,
+      "category": "Genially ",
+      "title": "Portfolios and Resumes ",
+      "image": "https://i0.wp.com/edtechdigest.com/wp-content/uploads/2020/10/CREDIT-Genially-image.png",
+      "content": "Stand out and create a digital portfolio or a resume for a new position. Genially has lots of templates that already look professional. Share it with a link or add a QR code to a printed document. Talk about being innovative! "
+    },
+    {
+      "id": 14,
+      "category": "Genially ",
+      "title": "Quizzes ",
+      "image": "https://i0.wp.com/edtechdigest.com/wp-content/uploads/2020/10/CREDIT-Genially-image.png",
+      "content": "Create a fun quiz that feels like a game! It's perfect for making assessment more fun for your students or for having students show what they know by creating quizzes for their classmates. "
+    },
+    {
+      "id": 15,
+      "category": "Genially ",
+      "title": "Choose your own adventure story ",
+      "image": "https://i0.wp.com/edtechdigest.com/wp-content/uploads/2020/10/CREDIT-Genially-image.png",
+      "content": "Create a “choose your own adventure” story with genially. You can adapt the quiz template to create choices that take the reader on the story path they choose. Link multiple basic quizzes together to make an even more in-depth choose your own adventure story. "
+    },
+    {
+      "id": 16,
+      "category": "Genially ",
+      "title": "Flyers, graphics, handouts etc. ",
+      "image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/genially-2685393.jpg",
+      "content": " If you love the graphics and do not need interactivity, simply create a genially from scratch or use a template and then download it as a PDF or an image. View this example session schedule that can be shared digitally or on paper. It even includes a QR code! "
+    },
+    {
+      "id": 17,
+      "category": "Genially ",
+      "title": "One-page learning site ",
+      "image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/genially-2685393.jpg",
+      "content": "You can organize all your learning into a single slide and still look clean, fun and super inviting like in this example. Inserting content as a pop-up window is a total game changer. "
+    },
+    {
+      "id": 18,
+      "category": "Genially ",
+      "title": "Interactive pictures ",
+      "image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/genially-2685393.jpg",
+      "content": "Share fun interactive pictures on social media or for an event. This is also a fun way to share analog work or to embed an invitation for a class event. Just click on the hot spot and smile away! Check out this example to see how easy and fun this can be. "
+    }
+  ]
+}
+
